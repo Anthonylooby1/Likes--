@@ -1,0 +1,64 @@
+.container {
+    width: 500px;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 20px;
+    border: solid black 3px;
+}
+
+.nav {
+    min-width: 800px;
+    height: 100px;
+    
+}
+
+.network {
+    min-width: 800px;
+    height: 50px;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+}
+
+.net {
+    color: white;
+    margin-left: 20px;
+}
+
+.feed {
+    min-width: 800px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.your-feed {
+    color: black;
+}
+
+.top {
+    width: 500px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.bottom {
+    width: 500px;
+    height: 100px;
+}
+
+h2 {
+    padding-left: 45px;
+}
+
+button {
+    height: 30px;
+    width: 55px;
+    color: black;
+    background-color: rgb(238, 197, 10);
+    box-shadow: black 3px 5px;
+    font-weight: bold;
+}
